@@ -95,6 +95,16 @@ Explicit stops → Clear boundaries → Stable trust → Appropriate delegation 
 
 ---
 
+## 🔍 Critical Analysis
+
+**Did Selective ever proceed when it shouldn't have?**
+
+→ **[Read Discussion: Critical Analysis of Divergences](/DISCUSSION.md)**
+
+**Key finding**: 2 out of 25 tasks (8%) where Selective proceeded but responsibility became ambiguous. This is not a bug—it's evidence of where values matter.
+
+---
+
 ## The Experiment
 
 ### Setup
