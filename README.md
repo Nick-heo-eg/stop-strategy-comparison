@@ -85,6 +85,16 @@ Explicit stops → Clear boundaries → Stable trust → Appropriate delegation 
 
 ---
 
+## 📊 See Examples
+
+**Want to see how policies compare on real tasks?**
+
+→ **[View Demo Examples](/demo/)** (6 illustrated comparisons)
+
+**⚠️ Note**: Demo is static illustrations only, not executable code. Shows how identical inputs produce different stop behaviors.
+
+---
+
 ## The Experiment
 
 ### Setup
