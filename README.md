@@ -552,3 +552,37 @@ For true enforcement, see Echo OS state-based Phase Lock system.
 
 **The right choice depends on what you're deciding, not what you're building.**
 
+
+---
+
+## Enforcement Mechanisms Compared
+
+### Output Filtering (e.g., regex, keyword blocking)
+**What it controls**: Surface patterns, command execution, string outputs
+
+**What it doesn't control**: Semantic intent, judgment formation, responsibility
+
+**Example**:
+- Blocks: `rm -rf /`
+- Allows: "I recommend deleting those files"
+
+**Use case**: Safety net for low-stakes tasks
+
+### Prompt-Based Boundaries (this experiment)
+**What it controls**: Cooperative models that respect boundary signals
+
+**What it doesn't control**: Model reinterpretation across turns
+
+**Use case**: Exploration, documentation, advisory contexts
+
+### State-Based Enforcement (Echo OS)
+**What it controls**: Judgment authority, execution gates, responsibility flow
+
+**What it doesn't control**: Nothing (by design - locks state outside model)
+
+**Use case**: Production decisions, irreversible actions, high stakes
+
+---
+
+**Key Insight**: Regex blocks the action. Prompts request cooperation. State locks the judgment. Choose based on what needs control.
+
