@@ -535,3 +535,20 @@ Questions? Interested in collaborating?
 
 For true enforcement, see Echo OS state-based Phase Lock system.
 
+
+---
+
+## When to Use What
+
+**Prompt-based boundaries** (like this experiment):
+- Exploration, ideation, documentation
+- Low-stakes contexts where output is advisory
+- Cooperative environments
+
+**State-based enforcement** (like Echo OS):
+- Production decisions, execution, irreversible actions
+- High-stakes contexts where responsibility matters
+- Non-cooperative or adversarial conditions
+
+**The right choice depends on what you're deciding, not what you're building.**
+
