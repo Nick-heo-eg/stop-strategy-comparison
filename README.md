@@ -514,3 +514,24 @@ Questions? Interested in collaborating?
 **Last updated**: 2025-12-19
 **Status**: Full 25-task study complete. Results validated across all categories.
 
+
+---
+
+## Experimental Limitations
+
+**Critical Distinction**: This experiment tests prompt-based stop policies.
+
+### What Prompts Can Do
+- ✅ Request cooperation from the model
+- ✅ Demonstrate boundary patterns
+- ✅ Show when stops should occur (advisory)
+
+### What Prompts Cannot Do
+- ❌ Enforce stops across conversation turns
+- ❌ Prevent model reinterpretation in new context
+- ❌ Lock judgment state outside the model
+
+**Key Insight**: API-level access control can enforce boundaries. Prompt-based patterns cannot. This experiment demonstrates effectiveness under cooperative conditions, not enforcement guarantees.
+
+For true enforcement, see Echo OS state-based Phase Lock system.
+
