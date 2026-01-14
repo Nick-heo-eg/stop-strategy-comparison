@@ -1,5 +1,12 @@
 # When Should AI Stop Thinking?
 
+This repository documents experimental execution during research.
+It does not represent a production system, live authority, or active enforcement.
+
+---
+
+
+
 **A Research Study on Explicit Stop Mechanisms in AI Systems**
 
 > "Intelligence can scale. Responsibility cannot."
