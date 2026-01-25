@@ -1,13 +1,20 @@
 # When Should AI Stop Thinking?
 
-This repository documents experimental execution during research.
-It does not represent a production system, live authority, or active enforcement.
+**A Research Study on Explicit Stop Mechanisms in AI Systems**
 
 ---
 
+## Scope
 
+This repository presents a **comparative study** of explicit stop mechanisms.
 
-**A Research Study on Explicit Stop Mechanisms in AI Systems**
+It is intended for analysis and discussion. It does **not recommend a default strategy**, nor does it prescribe production usage.
+
+Some insights may inform gating systems, but this repository is standalone research.
+
+---
+
+This repository documents experimental execution during research. It does not represent a production system, live authority, or active enforcement.
 
 > "Intelligence can scale. Responsibility cannot."
 
