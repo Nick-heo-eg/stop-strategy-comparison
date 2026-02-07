@@ -15,6 +15,8 @@ See the overarching map:
 
 ---
 
+This repository evaluates when to invoke or stop execution as a boundary problem, not as a performance competition.
+
 ## Scope
 
 This repository presents a **comparative study** of explicit stop mechanisms.
