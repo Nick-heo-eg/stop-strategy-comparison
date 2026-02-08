@@ -17,19 +17,14 @@ See the overarching map:
 
 This repository evaluates when to invoke or stop execution as a boundary problem, not as a performance competition.
 
-## Scope
-
-This repository presents a **comparative study** of explicit stop mechanisms.
-
-It is intended for analysis and discussion. It does **not recommend a default strategy**, nor does it prescribe production usage.
-
-Some insights may inform gating systems, but this repository is standalone research.
-
 ---
 
-## Non-Goals
+## What This Is
+Stop-First demonstrates how execution can be structurally blocked until an explicit judgment state exists.
+This repository is an entry point and conceptual guide.
 
-This project does not aim to replace human or organizational judgment authority; does not provide sealed or proprietary judgment layers; does not claim legal, court-level, or regulatory admissibility; does not own, trademark, or enforce 'judgment language'. This project focuses on pre-execution judgment boundaries, STOP/HOLD/ALLOW as first-class outcomes, fail-closed behavior for unknown cases, negative proof logging, and observability-friendly reference patterns.
+## What This Is Not
+This project does not replace human judgment, enforce policy, or claim legal authority.
 
 ---
 
